@@ -19,3 +19,5 @@
 *.DotSettings
 *.apk
 *.DS_Store
+/Logs
+/.vsconfig

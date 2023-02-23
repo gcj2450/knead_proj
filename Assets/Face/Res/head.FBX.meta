@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 62b0d2517819c9e4bb7d34c1f1b5a7a2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Eye_scale_LT
+  - first:
+      1: 100002
+    second: Eye_scale_RT
+  - first:
+      1: 100004
+    second: EyeLine_in_LT
+  - first:
+      1: 100006
+    second: EyeLine_in_RT
+  - first:
+      1: 100008
+    second: EyeLine_out_LT
+  - first:
+      1: 100010
+    second: EyeLine_out_RT
+  - first:
+      1: 100012
+    second: Face_head
+  - first:
+      1: 100014
+    second: face_mesh
+  - first:
+      1: 100016
+    second: Face_root
+  - first:
+      1: 100018
+    second: glass
+  - first:
+      1: 100020
+    second: hair_all
+  - first:
+      1: 100022
+    second: //RootNode
+  - first:
+      1: 100024
+    second: head_ori
+  - first:
+      1: 100026
+    second: headTop
+  - first:
+      1: 100028
+    second: Lip_LT
+  - first:
+      1: 100030
+    second: Lip_RT
+  - first:
+      1: 100032
+    second: LT_eye
+  - first:
+      1: 100034
+    second: Mouth
+  - first:
+      1: 100036
+    second: Nose
+  - first:
+      1: 100038
+    second: Nose_brige
+  - first:
+      1: 100040
+    second: Nose_LT
+  - first:
+      1: 100042
+    second: Nose_RT
+  - first:
+      1: 100044
+    second: RT_eye
+  - first:
+      4: 400000
+    second: Eye_scale_LT
+  - first:
+      4: 400002
+    second: Eye_scale_RT
+  - first:
+      4: 400004
+    second: EyeLine_in_LT
+  - first:
+      4: 400006
+    second: EyeLine_in_RT
+  - first:
+      4: 400008
+    second: EyeLine_out_LT
+  - first:
+      4: 400010
+    second: EyeLine_out_RT
+  - first:
+      4: 400012
+    second: Face_head
+  - first:
+      4: 400014
+    second: face_mesh
+  - first:
+      4: 400016
+    second: Face_root
+  - first:
+      4: 400018
+    second: glass
+  - first:
+      4: 400020
+    second: hair_all
+  - first:
+      4: 400022
+    second: //RootNode
+  - first:
+      4: 400024
+    second: head_ori
+  - first:
+      4: 400026
+    second: headTop
+  - first:
+      4: 400028
+    second: Lip_LT
+  - first:
+      4: 400030
+    second: Lip_RT
+  - first:
+      4: 400032
+    second: LT_eye
+  - first:
+      4: 400034
+    second: Mouth
+  - first:
+      4: 400036
+    second: Nose
+  - first:
+      4: 400038
+    second: Nose_brige
+  - first:
+      4: 400040
+    second: Nose_LT
+  - first:
+      4: 400042
+    second: Nose_RT
+  - first:
+      4: 400044
+    second: RT_eye
+  - first:
+      21: 2100000
+    second: Material #354
+  - first:
+      21: 2100002
+    second: Material #236
+  - first:
+      21: 2100004
+    second: Material #325
+  - first:
+      43: 4300000
+    second: face_mesh
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: face_mesh
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 768ee2d51b8221249b46f1809ab5b2b4
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
